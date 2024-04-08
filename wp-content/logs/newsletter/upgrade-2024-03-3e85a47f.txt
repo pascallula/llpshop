@@ -1,0 +1,38 @@
+25-03-2024 12:54:41 - INFO  - 8.2.3 - 35,9 Mo/256 Mo - Pascal > Start upgrade from 0.0.0
+25-03-2024 12:54:43 - INFO  - 8.2.3 - 35,9 Mo/256 Mo - Pascal > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+25-03-2024 12:54:43 - INFO  - 8.2.3 - 35,9 Mo/256 Mo - Pascal > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+25-03-2024 12:54:44 - INFO  - 8.2.3 - 35,9 Mo/256 Mo - Pascal > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+25-03-2024 12:54:44 - INFO  - 8.2.3 - 35,9 Mo/256 Mo - Pascal > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+25-03-2024 12:54:44 - INFO  - 8.2.3 - 35,9 Mo/256 Mo - Pascal > Array
+(
+    [`wp_newsletter_user_meta`] => Created table `wp_newsletter_user_meta`
+)
+
+25-03-2024 12:54:44 - INFO  - 8.2.3 - 35,9 Mo/256 Mo - Pascal > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+25-03-2024 12:54:44 - INFO  - 8.2.3 - 35,9 Mo/256 Mo - Pascal > Array
+(
+    [`wp_newsletter_logs`] => Created table `wp_newsletter_logs`
+)
+
+25-03-2024 12:54:45 - INFO  - 8.2.3 - 35,9 Mo/256 Mo - Pascal > Backing up options of 0.0.0
+25-03-2024 12:54:45 - INFO  - 8.2.3 - 35,9 Mo/256 Mo - Pascal > End
