@@ -1,0 +1,8 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_shoppable-wardrobe">
+            <key name="leading_brands_title" />
+            <key name="leading_brands_sub_title" />
+        </key>
+    </admin-texts>
+</wpml-config>

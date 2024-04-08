@@ -1,0 +1,8 @@
+= 1.0.2 =
+* Style update.
+
+= 1.0.1 =
+* Theme Info page update.
+
+= 1.0.0 =
+* Initial release.

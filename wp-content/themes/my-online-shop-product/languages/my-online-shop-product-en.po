@@ -1,0 +1,757 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-12-21 16:40+0700\n"
+"PO-Revision-Date: 2023-12-21 16:40+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e;"
+"esc_html_x:1,2c;esc_attr_x:1,2c;_n:1,2;_nx:4c,1,2;_x:1,2c;_ex:1,2c;"
+"_n_noop:1,2;_nx_noop:4c,1,2;translate_nooped_plural;_c;_nc:4c,1,2;"
+"__ngettext:1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: classes/class-tgm-plugin-activation.php\n"
+"X-Poedit-SearchPathExcluded-1: assets\n"
+
+#: 404.php:17
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:19
+msgid "This is somewhat embarrassing, isn’t it?"
+msgstr ""
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: comments.php:25
+#, php-format
+msgctxt "Comments title"
+msgid "One Comment on \"%2$s\""
+msgid_plural "* %1$s * Comments on \"%2$s\""
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:49
+msgid "Pagination"
+msgstr ""
+
+#: comments.php:50
+msgid "Previous Comment"
+msgstr ""
+
+#: comments.php:51
+msgid "Next Comment"
+msgstr ""
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:62
+msgid "Leave a comment"
+msgstr ""
+
+#: footer.php:31 footer.php:46 footer.php:53 footer.php:61 footer.php:69
+#: footer.php:77 footer.php:112 searchform.php:13 template-home.php:31
+#: template-home.php:43 template-home.php:46 template-home.php:61
+#: template-home.php:64 template-home.php:93 template-home.php:96
+#: template-parts/excerpts/excerpt.php:14
+#: template-parts/excerpts/excerpt.php:22
+#: template-parts/excerpts/excerpt.php:30
+#: template-parts/header/content-navbar.php:34
+#: template-parts/header/content-navbar.php:45
+#: template-parts/header/content-navbar.php:156
+#: template-parts/header/content-navbar.php:167
+#: template-parts/home/content-news.php:59
+#: template-parts/home/content-news.php:63
+#: template-parts/home/content-slider.php:45
+#: template-parts/home/content-slider.php:56 woocommerce/content-product.php:56
+#: woocommerce/content-product.php:72 woocommerce/content-product.php:73
+#: woocommerce/home-templates/content-section-category.php:32
+#: woocommerce/home-templates/content-section-category.php:47
+#: woocommerce/home-templates/content-section-hotsales.php:27
+#: woocommerce/single-product/related.php:32
+#: woocommerce/single-product/related.php:34
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions.php:132
+msgid "Main Nav Menu"
+msgstr ""
+
+#: functions.php:133
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:311 sidebar.php:14
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:313
+msgid ""
+"Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: functions.php:321
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:323
+msgid "Add widgets here to appear in your sidebar on Shop page."
+msgstr ""
+
+#: functions.php:332
+msgid "Footer-1"
+msgstr ""
+
+#: functions.php:334
+msgid "Add widget to footer area 3"
+msgstr ""
+
+#: functions.php:342
+msgid "Footer-2"
+msgstr ""
+
+#: functions.php:344
+msgid "Add widget to footer area 4"
+msgstr ""
+
+#: header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:34
+msgid "My Online Shop Product"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:35
+msgid "This field use to add global information to theme"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:44
+msgid "Add Theme Global Info"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:45
+msgid "Add Theme Global setting informations"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:63
+msgid "Add Read More Btn Text"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:74
+msgid "Add SideBar Background Color"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:88
+msgid "Change Section Title Text Color"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:102
+msgid "Change Title Text Color"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:116
+msgid "Change Sub Title Text Color"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:130
+msgid "Change Link Text Color"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:144
+msgid "Change Text Color"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:158
+msgid "Change Product Card Background Color"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:172
+msgid "Change Section Background Color"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:186
+msgid "Change Button Text Color"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:200
+msgid "Change Button Background Color"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:214
+msgid "Setting Hover Effect Color"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:228
+msgid "Setting Active Effect Color"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:239
+msgid "Add Info to Top Bar"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:240
+msgid "Add your phone number, social media link to TopBar"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:259
+msgid "Show / Hide Top Bar"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:279
+msgid "Add Phone Number"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:290
+msgid "Add Phone Icon Color"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:309
+msgid "Add Email address"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:320
+msgid "Add Email Icon Color"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:338
+msgid "Add Youtube Link"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:349
+msgid "Add Youtube Icon Color"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:367
+msgid "Add Facebook Link"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:378
+msgid "Add Facebook Icon Color"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:396
+msgid "Add Twitter Link"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:407
+msgid "Add Twitter Icon Color"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:425
+msgid "Add Instagram Link"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:436
+msgid "Add Instagram Icon Color"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:454
+msgid "Add LinkedIn Link"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:465
+msgid "Add LinkedIn Icon Color"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:479
+msgid "Add Top Bar Text Color"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:491
+msgid "Add Top Bar Background Color"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:503
+msgid "Add Customizer to Nav Bar"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:504
+msgid "Add logo text color, nav text color, nav background color"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:517
+msgid "Add NAV Text Color"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:530
+msgid "Add NAV Bar Background Color"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:543
+msgid "Add NAV Bar SubMenu Background Color"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:554
+msgid "Add Custom Header"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:555
+msgid "Add title, sub_title, button, button_link to custom header"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:574
+msgid "Show / Hide Custom Header on Blogs Page"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:593
+msgid "Select a Page to display Custom Header Image"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:611
+msgid "Show / Hide Custom Header Information"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:613
+msgid "Toggle button to turn Custom Header information on-off"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:624
+msgid "Add Slider to Home Page Template"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:625
+msgid "Add slider image, title, description or turn Slider on-off"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:644
+msgid "Hide / Show Slider"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:646
+msgid "Toggle button to turn Slider on-off"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:665
+msgid "Hide / Show Slider Information"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:667
+msgid "Toggle button to turn Slider Information area on-off"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:686
+msgid "Set Slider Page 1"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:702
+msgid "Sub_Title for slider 1 to be displayed"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:719
+msgid "Add Slider 1 button text"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:735
+msgid "Add Slider 1 button link"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:753
+msgid "Set Slider Page 2"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:769
+msgid "Sub_Title for slider 2 to be displayed"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:786
+msgid "Add Slider 2 button text"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:802
+msgid "Add Slider 2 button link"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:820
+msgid "Set Slider Page 3"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:836
+msgid "Sub_Title for slider 3 to be displayed"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:853
+msgid "Add Slider 3 button text"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:869
+msgid "Add Slider 3 button link"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:880
+msgid "Add Template Configuration"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:898
+msgid "Select a SideBar configuration"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:899
+msgid "Setting how sidebar will be displaying on Page"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:901
+msgid "Left"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:902
+msgid "Right"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:903
+msgid "None"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:920
+msgid "Select column number to displaying Card on Page"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:922
+msgid "One Column"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:923
+msgid "Two Column"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:924
+msgid "Three Column"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:934
+msgid "Add Home Template Configuration"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:953
+msgid "Add Category Section Title"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:967
+msgid "Change Number of Slider/View on Category Section"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:989
+msgid "Add Popular Product Section Title"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1006
+msgid "Add NewArrival Product Section Title"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1023
+msgid "Show / Hide Deal Section on Home Page"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1043
+msgid "Add Deal Product Section Title"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1063
+#, php-format
+msgid "Please add sale price - Product ID not valid: %1$s"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1074
+msgid "Add Deal Product ID"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1087
+msgid "Deal Section Background Image"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1088
+msgid "Image size w=1000, h=400"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1108
+msgid "Add Related Product Section Title"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1122
+msgid ""
+"Change Number of Product Card/View on Related Products Section Single Page"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1145
+msgid "Add News Section Title"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1160
+msgid "Change Number of Product Card/View Home Page Section"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1177
+msgid "Setting Footer"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1193
+msgid "Add Company Logo Image"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1211
+msgid "Add Message Text to Footer Section"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1227
+msgid "Add Footer Background Color"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1229
+msgid "Change Footer Section background color!"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1242
+msgid "Setting Footer Text Color"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1244
+msgid "Change Footer Section text color!"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1259
+msgid "Add Copy Right Text"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1278
+msgid "Company Information Title Section"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1279
+msgid "Add a title to Company info section in Footer"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1296
+msgid "Address 1 Title"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1312
+msgid "Address 1 Location"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1328
+msgid "Address 1 Phone Number"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1344
+msgid "Address 1 Email"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1363
+msgid "Address 2 Title"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1379
+msgid "Address 2 Location"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1395
+msgid "Address 2 Phone Number"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1411
+msgid "Address 2 Email"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1430
+msgid "Address 3 Title"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1446
+msgid "Address 3 Location"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1462
+msgid "Address 3 Phone Number"
+msgstr ""
+
+#: includes/customizer/my_online_shop_product_theme_customizer.php:1478
+msgid "Address 3 Email"
+msgstr ""
+
+#: search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:31
+#, php-format
+msgid "We found %d result for your search."
+msgid_plural "We found %d results for your search."
+msgstr[0] ""
+msgstr[1] ""
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:18
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:23
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:26 template-parts/content-single.php:34
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-page.php:30 template-parts/content-single.php:38
+msgid "Next page"
+msgstr ""
+
+#: template-parts/content-page.php:31 template-parts/content-single.php:39
+msgid "Previous page"
+msgstr ""
+
+#: template-parts/content-single.php:28
+msgid "Tags"
+msgstr ""
+
+#: template-parts/content-single.php:49
+msgctxt "Parent post link"
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-"
+"title\">%title</span>"
+msgstr ""
+
+#: template-parts/content-single.php:54
+msgid "Next"
+msgstr ""
+
+#: template-parts/content-single.php:55
+msgid "Previous"
+msgstr ""
+
+#: template-parts/header/content-navbar.php:72
+msgid "My Account"
+msgstr ""
+
+#: template-parts/header/content-navbar.php:77
+msgid "Logout"
+msgstr ""
+
+#: template-parts/header/content-navbar.php:83
+msgid "Login / Register"
+msgstr ""
+
+#: template-parts/header/content-navbar.php:156
+msgid "Call Us:"
+msgstr ""
+
+#: template-parts/header/content-navbar.php:167
+msgid "Email Us:"
+msgstr ""
+
+#: template-parts/home/content-news.php:35 woocommerce/content-product.php:59
+#: woocommerce/home-templates/content-section-category.php:35
+#: woocommerce/home-templates/content-section-hotsales.php:54
+msgid "No Image"
+msgstr ""
+
+#: template-parts/home/content-news.php:47 woocommerce/content-product.php:71
+msgid "Category:"
+msgstr ""
+
+#: template-parts/home/content-news.php:50
+#, php-format
+msgid "%s ,"
+msgstr ""
+
+#: template-parts/home/content-news.php:89
+msgid "These section will be displaying Post"
+msgstr ""
+
+#: template-parts/home/content-slider.php:69
+msgid "There are no Slider Image"
+msgstr ""
+
+#: template-parts/pagination.php:10
+msgid "<< Previous"
+msgstr ""
+
+#: template-parts/pagination.php:11
+msgid "Next >>"
+msgstr ""
+
+#: template-parts/pagination.php:12
+msgid "Post Navigation"
+msgstr ""
+
+#: template-parts/pagination.php:13
+msgid "Page"
+msgstr ""
+
+#: woocommerce/content-product.php:44
+msgid "New"
+msgstr ""
+
+#: woocommerce/content-product.php:49
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/content-product.php:63
+#: woocommerce/home-templates/content-section-category.php:40
+msgid "View detail"
+msgstr ""
+
+#: woocommerce/content-product.php:71
+#, php-format
+msgid " %s"
+msgstr ""
+
+#: woocommerce/content-product.php:73
+msgid "Price: "
+msgstr ""
+
+#: woocommerce/home-templates/content-section-category.php:58
+msgid "These section will be displaying all parent Category"
+msgstr ""
+
+#: woocommerce/home-templates/content-section-hotsales.php:30
+#, php-format
+msgid "%s OFF"
+msgstr ""
+
+#: woocommerce/home-templates/content-section-hotsales.php:37
+#: woocommerce/home-templates/content-section-hotsales.php:40
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: woocommerce/home-templates/content-section-hotsales.php:45
+msgid "View Product"
+msgstr ""
+
+#: woocommerce/home-templates/content-section-newarrival.php:47
+msgid "These section will be displaying New Arrival Product"
+msgstr ""
+
+#: woocommerce/home-templates/content-section-popular.php:45
+msgid "These section will be displaying Popular Product"
+msgstr ""
